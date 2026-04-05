@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "website",
+      "runtimeExecutable": "ruby",
+      "runtimeArgs": ["/Users/niyasbasheer/Downloads/bissolves_model/serve.rb"],
+      "port": 8080,
+      "autoPort": false
+    }
+  ]
+}
